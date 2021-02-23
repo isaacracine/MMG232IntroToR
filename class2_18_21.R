@@ -1,5 +1,5 @@
 library(tidyverse)
-install.packages("palmerpenguins")
+#install.packages("palmerpenguins")
 library(palmerpenguins)
 
 #tells you if data comes with any packages
@@ -76,3 +76,111 @@ w   #made two rows
 #Tidyverse
 #Formula based packages
 #all have their own way of writing things but they can only do the same thing
+
+
+#------------------ Day 2----------------
+install.packages("janitor")
+library(janitor)
+head(penguins)
+
+#make names into camel case
+clean_names(penguins, "small_camel")
+
+#renaming single col
+colnames(penguins)[8] <- "Year"
+colnames(penguins)
+
+#Removing missing data
+table(is.na(penguins))
+dim(penguins)
+
+#removing Nas
+#removes entire row w NA
+penguins2 <-na.omit(penguins)
+table(is.na(penguins2))
+dim(penguins2) #DIMENSIONS CHANGED
+
+
+##FILTERING DATA
+df <-data.frame("SN" = 1:5, "Age" = c(21,15,80,45,27),
+                "Name" = c("John", "Dora", "Mike",
+                           "Lucas", "Ashley"),
+                stringsAsFactors = FALSE)
+
+str(df) #returns structure
+glimpse(df) #TIDYVERSE version of structure
+
+
+#positional indexing
+df[3,2]
+ages <-df[,2] #pass entire col
+df[1:3,]  #multiple consecutive entries
+df[c(1,4,5),] #pick specific rows to view
+
+#grepping
+df$SN   #prints entire col, only for dataframes
+
+
+#-----------Filtering with pipes-----
+#pipe =  %>%
+adelie <- penguins %>% filter(species == "Adelie")
+adelie
+#filters out just adelie species
+#filtering numeric uses just one =, while char and
+#string data must have double ==
+
+dim(adelie)
+
+other_species <- penguins %>% filter(species != "Adelie")
+other_species
+dim(other_species)
+
+
+#another way to remove entire col
+no_island <-penguins %>% select(-island)
+colnames(no_island) #removed island col
+colnames(penguins)
+
+#---------------Layering Pipes-------------
+penguins %>%
+  filter(species == "Gentoo") %>%
+  filter(sex == "female") %>%
+  filter(bill_length_mm >= 30)
+#order of pipe is important bc can exclude data
+#start with broad and work to small
+
+p_kg <-penguins %>%
+  filter(species == "Gentoo") %>%
+  filter(sex == "female") %>%
+  filter(bill_length_mm >= 30) %>%
+  mutate(body_mass_kg = body_mass_g/1000)
+
+knitr::kable(head(p_kg))
+
+
+#----------------Summary stats---------
+summary(penguins)
+summary(penguins$bill_depth_mm) #single col
+
+penguins %>%
+  group_by(species) %>%
+  summarise_at(c("bill_length_mm", "body_mass_g"), mean, na.rm = TRUE)
+
+
+#-------------joinging data---------------
+#use kableExtra package
+#when joinging only length of first obj used
+#so if second obj larger the vals dropped
+
+#-------------Challenge Deconstrunctiong----
+url <- "http://varianceexplained.org/files/Brauer2008_DataSet1.tds"
+unclean  <- read_delim(url, delim = "\t")
+
+#description on R walk through
+cleaned_data <- read_delim(url, delim = "\t") %>%
+  separate(NAME, c("name", "BP", "MF", "systematic_name", "number"), sep = "\\|\\|") %>%
+  mutate_at(vars(name:systematic_name), funs(trimws)) %>%
+  select(-number, -GID, -YORF, -GWEIGHT) %>%
+  gather(sample, expression, G0.05:U0.3) %>%
+  separate(sample, c("nutrient", "rate"), sep = 1, convert = TRUE) %>%
+  filter(!is.na(expression), systematic_name != "")
