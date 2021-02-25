@@ -171,6 +171,18 @@ penguins %>%
 #use kableExtra package
 #when joinging only length of first obj used
 #so if second obj larger the vals dropped
+# install.packages("kableExtra")
+# library(kableExtra)
+# annotations <- read_tsv("gene_annotations.tsv")
+# seqs <- read_tsv("genes_and_seqs.tsv")
+# 
+# joined_annotations <- annotations %>% 
+#   left_join(seqs, by = "gene_ID")
+# 
+# head(joined_annotations) %>%
+#   kbl() %>%
+#   kable_styling()
+
 
 #-------------Challenge Deconstrunctiong----
 url <- "http://varianceexplained.org/files/Brauer2008_DataSet1.tds"
