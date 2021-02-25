@@ -217,12 +217,15 @@ heatmap(mat)
 heatmap(mat, Colv = NA, scale = "column")
 
 ##MORE COMPLEX
-install.packages("modeltools")
-library(modeltools)
-install.packages("ComplexHeatmap")
-library(ComplexHeatmap)
+if (!requireNamespace("BiocManager", quietly = TRUE))
+  install.packages("BiocManager")
+
+BiocManager::install("ComplexHeatmap")
+
 install.packages("tidyHeatmap", repos="http://cran.rstudio.com/", dependencies=TRUE)
 library(tidyHeatmap) #GIVES AN ERROR????????
+
+
 
 mtcars_tidy <- mtcars %>% as_tibble(rownames = "Car name") %>% 
    # Scale
