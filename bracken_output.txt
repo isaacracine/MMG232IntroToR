@@ -1,0 +1,122 @@
+# Constructed from biom file
+#OTU ID	SRR12588591_report_bracken_species	SRR13200939_report_bracken_species	SRR13200940_report_bracken_species	SRR13200941_report_bracken_species	SRR13200945_report_bracken_species	SRR13867563_report_bracken_species	taxonomy
+694009	235392.0	118368.0	14338.0	483840.0	27886.0	8548855.0	k__Viruses; p__Pisuviricota; c__Pisoniviricetes; o__Nidovirales; f__Coronaviridae; g__Betacoronavirus; s__Severe acute respiratory syndrome-related coronavirus
+864596	1.0	0.0	0.0	12.0	0.0	0.0	k__Viruses; p__Pisuviricota; c__Pisoniviricetes; o__Nidovirales; f__Coronaviridae; g__Betacoronavirus; s__Bat coronavirus BM48-31/BGR/2008
+159150	3822.0	6496.0	5376.0	2065.0	13853.0	0.0	k__Viruses; p__Negarnaviricota; c__Ellioviricetes; o__Bunyavirales; f__Peribunyaviridae; g__Orthobunyavirus; s__Shamonda orthobunyavirus
+35306	301.0	2606.0	2862.0	68.0	846.0	0.0	k__Viruses; p__Negarnaviricota; c__Ellioviricetes; o__Bunyavirales; f__Peribunyaviridae; g__Orthobunyavirus; s__Simbu orthobunyavirus
+1980484	237.0	22.0	21.0	224.0	37.0	0.0	k__Viruses; p__Negarnaviricota; c__Ellioviricetes; o__Bunyavirales; f__Hantaviridae; g__Orthohantavirus; s__Oxbow orthohantavirus
+239365	24.0	0.0	0.0	0.0	0.0	0.0	k__Viruses; p__Artverviricota; c__Revtraviricetes; o__Ortervirales; f__Retroviridae; g__Betaretrovirus; s__Enzootic nasal tumour virus of goats
+69576	15.0	0.0	0.0	0.0	0.0	0.0	k__Viruses; p__Artverviricota; c__Revtraviricetes; o__Ortervirales; f__Retroviridae; g__Betaretrovirus; s__Ovine enzootic nasal tumor virus
+11746	20.0	0.0	0.0	0.0	0.0	0.0	k__Viruses; p__Artverviricota; c__Revtraviricetes; o__Ortervirales; f__Retroviridae; g__Betaretrovirus; s__Jaagsiekte sheep retrovirus
+2560650	164868.0	5927.0	8896.0	2599.0	19899.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Gorganvirus; s__Proteus virus Isfahan
+1732064	99.0	0.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Gorganvirus; s__Staphylococcus phage StB20-like
+1732063	45.0	19.0	25.0	6.0	2.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Staphylococcus phage SPbeta-like
+1147042	2.0	1.0	7.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Lambdavirus; s__Staphylococcus phage StB12
+1982301	19.0	23.0	28.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus PHL301M00
+1982262	10.0	2.0	17.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus P144
+1982254	8.0	5.0	19.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus Attacne
+1982282	7.0	0.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus PHL092M00
+1654782	5.0	4.0	31.0	1.0	3.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium phage QueenBey
+1982274	2.0	0.0	10.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus PHL025M00
+1982260	3.0	1.0	4.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus P91
+1982279	1.0	3.0	16.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus PHL070N00
+2169967	53.0	34.0	58.0	22.0	74.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Lambdavirus; s__Escherichia virus DE3
+1308897	3.0	9.0	13.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Phietavirus; s__Staphylococcus phage StauST398-5
+1197952	2.0	9.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Phietavirus; s__Staphylococcus virus IPLA5
+1982107	4.0	0.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Demosthenesvirus; s__Gordonia virus Demosthenes
+2734192	3.0	0.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Bertelyvirus; s__Caulobacter virus CcrBL9
+1698709	1.0	0.0	1.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Timquatrovirus; s__Mycobacterium phage Enkosi
+2560452	11.0	3.0	4.0	6.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Myoviridae; g__Punavirus; s__Escherichia virus RCS47
+10678	7.0	0.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Myoviridae; g__Punavirus; s__Escherichia virus P1
+2716351	2.0	7.0	8.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Myoviridae; g__Peduovirus; s__Escherichia phage 500465-1
+2510480	1.0	0.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Myoviridae; g__Peduovirus; s__Klebsiella phage ST147-VIM1phi7.1
+2169882	2.0	0.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Myoviridae; g__Erskinevirus; s__Erwinia virus Asesino
+1407493	1.0	0.0	3.0	1.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Myoviridae; g__Libanvirus; s__Shigella phage SfIV
+2510943	3.0	0.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Herelleviridae; g__; s__Lactobacillus phage 3-521
+1980930	2.0	0.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Herelleviridae; g__Sepunavirus; s__Staphylococcus virus SEP1
+936054	3.0	0.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Podoviridae; g__Oslovirus; s__Enterobacteria phage VT2phi_272
+56947	12075.0	54593.0	19956.0	753.0	25475.0	0.0	k__Viruses; p__Negarnaviricota; c__Ellioviricetes; o__Bunyavirales; f__Baculoviridae; g__Betabaculovirus; s__Choristoneura fumiferana granulovirus
+67082	17.0	2.0	2.0	0.0	2.0	0.0	k__Viruses; p__Nucleocytoviricota; c__Pokkesviricetes; o__Chitovirales; f__Poxviridae; g__; s__BeAn 58058 virus
+337041	8.0	0.0	0.0	0.0	0.0	0.0	k__Viruses; p__Cossaviricota; c__Papovaviricetes; o__Zurhausenvirales; f__Papillomaviridae; g__Alphapapillomavirus; s__9
+11786	0.0	4.0	0.0	0.0	0.0	0.0	k__Viruses; p__Artverviricota; c__Revtraviricetes; o__Ortervirales; f__Retroviridae; g__Gammaretrovirus; s__Murine leukemia virus
+45617	0.0	2.0	0.0	0.0	0.0	0.0	k__Viruses; p__Artverviricota; c__Revtraviricetes; o__Ortervirales; f__Retroviridae; g__Gammaretrovirus; s__Human endogenous retrovirus K
+1654740	0.0	23.0	12.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium phage BruceLethal
+1690805	0.0	6.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium phage PAC1
+1747271	0.0	4.0	2.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium phage PA1-14
+1654781	0.0	3.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium phage Moyashi
+1654780	0.0	1.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium phage Enoki
+1982300	0.0	31.0	49.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus PHL199M00
+1982292	0.0	23.0	15.0	8.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus PHL141N00
+1982257	0.0	13.0	37.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus Lauchelly
+1982287	0.0	9.0	31.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus PHL114L00
+1982271	0.0	10.0	13.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus PAD20
+1982297	0.0	7.0	23.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus PHL171M01
+1982270	0.0	6.0	3.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus Pacnes201215
+1982256	0.0	7.0	23.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus Kubed
+1982261	0.0	7.0	30.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus P105
+1982255	0.0	20.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus Keiki
+1982283	0.0	8.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus PHL095N00
+1982291	0.0	8.0	12.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus PHL132N00
+1982253	0.0	12.0	10.0	0.0	4.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus ATCC29399BT
+1982288	0.0	4.0	2.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus PHL116M00
+1982266	0.0	4.0	11.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus P100D
+1982285	0.0	4.0	5.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus PHL112N00
+1982286	0.0	4.0	8.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus PHL113M01
+1982265	0.0	3.0	14.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus P100A
+1982252	0.0	10.0	66.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus ATCC29399BC
+1982284	0.0	3.0	17.0	0.0	2.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus PHL111M01
+1982264	0.0	3.0	12.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus P1.1
+1982273	0.0	3.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus PHL009M11
+1982307	0.0	2.0	15.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus Stormborn
+1982298	0.0	1.0	21.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus PHL179M00
+1982259	0.0	1.0	6.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus Ouroboros
+1392231	0.0	10.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Streptococcus phage 20617
+1610872	0.0	8.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Staphylococcus phage IME-SA4
+1147152	0.0	4.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Enterobacteria phage mEp460
+1267169	0.0	1.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Streptococcus phage phiBHN167
+1197953	0.0	13.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Phietavirus; s__Staphylococcus virus IPLA7
+399185	0.0	7.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Phietavirus; s__Staphylococcus virus PH15
+1051631	0.0	2.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Moineauvirus; s__Streptococcus phage YMC-2011
+1922246	0.0	1.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Sextaecvirus; s__Staphylococcus virus Sextaec
+1863008	0.0	9.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Myoviridae; g__Tequatrovirus; s__Shigella phage SHFML-11
+2592223	0.0	1.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Myoviridae; g__Eganvirus; s__Salmonella phage SW9
+2169883	0.0	3.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Myoviridae; g__Erskinevirus; s__Erwinia virus EaH2
+1124849	0.0	1.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Myoviridae; g__Erskinevirus; s__Pseudomonas phage OBP
+2734089	0.0	1.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Myoviridae; g__Baikalvirus; s__Pseudomonas virus PaBG
+1984787	0.0	1.0	1.0	12.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Myoviridae; g__Elvirus; s__Pseudomonas virus EL
+379329	0.0	3.0	0.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Podoviridae; g__Traversvirus; s__Stx2-converting phage 86
+2733897	0.0	1.0	4.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Autographiviridae; g__Cheungvirus; s__Prochlorococcus virus NATL1A7
+114424	0.0	1.0	0.0	0.0	0.0	0.0	k__Viruses; p__Preplasmiviricota; c__Tectiliviricetes; o__Rowavirales; f__Adenoviridae; g__Mastadenovirus; s__Ovine mastadenovirus A
+1982308	0.0	0.0	29.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus Wizzo
+1982269	0.0	0.0	21.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus PA6
+1982295	0.0	0.0	12.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus PHL152M00
+1982306	0.0	0.0	13.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus Solid
+1982268	0.0	0.0	3.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus P104A
+1982305	0.0	0.0	4.0	12.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium virus SKKY
+563769	0.0	0.0	8.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Lambdavirus; s__Stx2-converting phage 1717
+354260	0.0	0.0	1.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Lambdavirus; s__Lactococcus phage P335 sensu lato
+398839	0.0	0.0	2.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Phietavirus; s__Staphylococcus virus CNPH82
+53369	0.0	0.0	2.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Phietavirus; s__Staphylococcus virus 80alpha
+12402	0.0	0.0	2.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Myoviridae; g__Peduovirus; s__Streptococcus phage EJ-1
+1225789	0.0	0.0	1.0	0.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Myoviridae; g__Peduovirus; s__Enterobacteria phage SfI
+1985738	0.0	0.0	2.0	3.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Autographiviridae; g__Teseptimavirus; s__Escherichia virus T7
+10847	0.0	0.0	3.0	0.0	0.0	0.0	k__Viruses; p__Phixviricota; c__Malgrandaviricetes; o__Petitvirales; f__Microviridae; g__Sinsheimervirus; s__Escherichia virus phiX174
+1349410	0.0	0.0	1.0	0.0	0.0	0.0	k__Viruses; p__Nucleocytoviricota; c__Pokkesviricetes; o__Chitovirales; f__Poxviridae; g__Pandoravirus; s__salinus
+290028	0.0	0.0	0.0	1.0	0.0	0.0	k__Viruses; p__Pisuviricota; c__Pisoniviricetes; o__Nidovirales; f__Coronaviridae; g__Betacoronavirus; s__Human coronavirus HKU1
+693997	0.0	0.0	0.0	1.0	0.0	0.0	k__Viruses; p__Pisuviricota; c__Pisoniviricetes; o__Nidovirales; f__Coronaviridae; g__Alphacoronavirus; s__1
+644007	0.0	0.0	0.0	2.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Lambdavirus; s__Streptococcus phage PH10
+564886	0.0	0.0	0.0	4.0	1.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Enterobacteria phage YYZ-2008
+1147143	0.0	0.0	0.0	1.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Hendrixvirus; s__Enterobacteria phage HK140
+2734206	0.0	0.0	0.0	1.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Lenusvirus; s__Lactobacillus virus Nyseid
+2560732	0.0	0.0	0.0	1.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Myoviridae; g__Punavirus; s__Salmonella virus SJ46
+2734115	0.0	0.0	0.0	5.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Myoviridae; g__Libanvirus; s__Prochlorococcus virus PTIM40
+1792287	0.0	0.0	0.0	2.0	0.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Podoviridae; g__Traversvirus; s__Stx converting phage vB_EcoS_P27
+10359	0.0	0.0	0.0	3.0	0.0	0.0	k__Viruses; p__Peploviricota; c__Herviviricetes; o__Herpesvirales; f__Herpesviridae; g__Cytomegalovirus; s__Human betaherpesvirus 5
+345199	0.0	0.0	0.0	8.0	0.0	0.0	k__Viruses; p__Nucleocytoviricota; c__Megaviricetes; o__Pimascovirales; f__Iridoviridae; g__Iridovirus; s__Invertebrate iridescent virus 31
+2734493	0.0	0.0	0.0	0.0	1.0	0.0	k__Viruses; p__Negarnaviricota; c__Ellioviricetes; o__Bunyavirales; f__Tospoviridae; g__Orthotospovirus; s__Pepper chlorotic spot orthotospovirus
+1500812	0.0	0.0	0.0	0.0	11.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Siphoviridae; g__Pahexavirus; s__Propionibacterium phage PHL085N00
+2734096	0.0	0.0	0.0	0.0	11.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Myoviridae; g__Brigitvirus; s__Faecalibacterium virus Brigit
+2734150	0.0	0.0	0.0	0.0	2.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Myoviridae; g__Toutatisvirus; s__Faecalibacterium virus Toutatis
+2734105	0.0	0.0	0.0	0.0	1.0	0.0	k__Viruses; p__Uroviricota; c__Caudoviricetes; o__Caudovirales; f__Myoviridae; g__Eponavirus; s__Faecalibacterium virus Epona
+93386	0.0	0.0	0.0	0.0	3.0	0.0	k__Viruses; p__Peploviricota; c__Herviviricetes; o__Herpesvirales; f__Herpesviridae; g__Mardivirus; s__Columbid alphaherpesvirus 1
+2107708	0.0	0.0	0.0	0.0	0.0	1.0	k__Viruses; p__Pisuviricota; c__Pisoniviricetes; o__Nidovirales; f__Coronaviridae; g__Pandoravirus; s__neocaledonia

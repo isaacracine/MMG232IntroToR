@@ -183,6 +183,8 @@ depth %>% ggplot(aes(x = date, y = meter, group = 1)) + geom_line(color = "grey"
 
 
 #---------------------PCA-------------------------
+#Good for looking at clustering
+#great gfor catching errors
 peng <- penguins %>% rename(bill_length = bill_length_mm, bill_depth = bill_depth_mm, 
                             flipper_length = flipper_length_mm, body_mass = body_mass_g) %>% 
   mutate(species = as.factor(species), island = as.factor(island), 
@@ -217,13 +219,13 @@ heatmap(mat)
 heatmap(mat, Colv = NA, scale = "column")
 
 ##MORE COMPLEX
-if (!requireNamespace("BiocManager", quietly = TRUE))
-  install.packages("BiocManager")
+#if (!requireNamespace("BiocManager", quietly = TRUE))
+ # install.packages("BiocManager")
 
-BiocManager::install("ComplexHeatmap")
+#BiocManager::install("ComplexHeatmap")
 
-install.packages("tidyHeatmap", repos="http://cran.rstudio.com/", dependencies=TRUE)
-library(tidyHeatmap) #GIVES AN ERROR????????
+#install.packages("tidyHeatmap", repos="http://cran.rstudio.com/", dependencies=TRUE)
+library(tidyHeatmap) 
 
 
 
@@ -237,13 +239,14 @@ mtcars_tidy <- mtcars %>% as_tibble(rownames = "Car name") %>%
 mtcars_tidy
 
 #NOW can make heatmap with additional features
+#need to normalize cols differently (scaling)
 mtcars_heatmap <- mtcars_tidy %>% group_by(cyl) %>% 
   heatmap(`Car name`,Property, Value) %>% add_tile(hp)
 
 mtcars_heatmap
 
 #-------------------Correlation Plots--------------
-install.packages("rstatix")
+
 library(rstatix)
 
 corr_matrix <- cor(mat)

@@ -1,0 +1,13 @@
+Sample_ID,Subject_ID,Case_Control,Gender,Delivery_Route,AbxAtCollection,AbxPreCollection,IllnessAtCollection,IAA_Level,GADA_Level,IA2A_Level,ZNT8A_Level,ICA_Level,Age_at_Collection,T1D_Status
+G45068,E006673,control,female,vaginal,no_abx,no_abx,no_illness,0.37,2.7,0.08,0.08,0,705,control
+G45227,E016924,control,female,vaginal,no_abx,no_abx,no_illness,0.9,0,0.09,0.06,0,1131,control
+G45123,E018268,control,female,vaginal,no_abx,Amoxicillin and clavulanic acid,no_illness,0.34,0,0.1,0.14,0,1233,control
+G45117,E001463,control,male,vaginal,no_abx,Amoxicillin and clavulanic acid,no_illness,0,0.93,0.1,0.05,0,1062,control
+G45099,E006547,control,male,vaginal,no_abx,Amoxicillin,no_illness,0,0.47,0.07,0.19,0,1040,control
+G45071,E010590,control,male,vaginal,no_abx,Amoxicillin,no_illness,0.41,0.02,0.08,0.1,0,1045,control
+G45226,E026079,case,male,vaginal,no_abx,Amoxicillin,no_illness,12.28,11.57,0.11,0.1,4,760,seroconverted
+G45250,E010629,case,male,vaginal,no_abx,Amoxicillin,no_illness,5.13,7.46,0.12,1.37,256,1089,seroconverted
+G45108,E003251,case,female,vaginal,no_abx,no_abx,no_illness,14.083,21.754,0.076,0.296,0,508,T1D
+G45057,E010937,case,female,vaginal,no_abx,Amoxicillin,no_illness,7.83,0.37,456.5,3.48,256,1027,T1D
+G45075,T025418,case,female,vaginal,no_abx,Penicillin V,no_illness,8.59,189.7,0.39,0.13,512,1025,T1D
+G45092,E006574,case,male,vaginal,no_abx,Azithromycin,no_illness,30.08,195.49,1013.95,13.67,1024,1049,T1D
